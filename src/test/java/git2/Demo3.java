@@ -7,4 +7,11 @@ public class Demo3 {
 
 	}
 
+	public void subtract(int a, int b) {
+		
+		int result = a-b;
+		
+		System.out.println(result);
+	}
+	
 }
