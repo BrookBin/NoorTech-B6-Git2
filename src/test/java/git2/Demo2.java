@@ -5,8 +5,9 @@ public class Demo2 {
 	
 	public static void main(String[] args) {
 		
-		System.out.println("Git demo 20...");	
-		System.out.println("Git demo 300...");	
+		System.out.println("Git demo 20...");	//Change this line 
+		System.out.println("Git demo 300...");	// delete this line 
+		
 	}
 	
 	public void add(int a, int b) {
