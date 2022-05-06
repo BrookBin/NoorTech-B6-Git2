@@ -8,7 +8,9 @@ public class Demo2 {
 		System.out.println("Git demo 2...");
 		System.out.println("Git demo 5...");
 		
-		System.out.println("Git demo 5...");
+		System.out.println("Git demo 9...");
+		
+		System.out.println("Git demo 10...");
 		
 	}
 	
